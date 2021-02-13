@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/Michellemarm/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio4/Ejercicio4.csproj",
+      "projectName": "Ejercicio4",
+      "projectPath": "/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio4/Ejercicio4.csproj",
+      "packagesPath": "/Users/Michellemarm/.nuget/packages/",
+      "outputPath": "/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio4/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/Michellemarm/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.405/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

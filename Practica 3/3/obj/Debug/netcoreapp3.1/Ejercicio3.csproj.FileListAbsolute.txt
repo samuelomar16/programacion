@@ -1,0 +1,12 @@
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.csprojAssemblyReference.cache
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.AssemblyInfoInputs.cache
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.AssemblyInfo.cs
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.csproj.CoreCompileInputs.cache
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.deps.json
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.runtimeconfig.json
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.runtimeconfig.dev.json
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.dll
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.pdb
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.dll
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.pdb
+/Users/Michellemarm/Desktop/Fonfi /C-1,2021/Programación /Practica3/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.genruntimeconfig.cache
