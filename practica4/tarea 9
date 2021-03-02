@@ -1,0 +1,63 @@
+Ejercicio 9
+
+using System;
+
+
+
+public class TablaMultiplicar
+
+{
+
+    public void cargarValor()
+
+    {
+
+        int valor;
+
+        do
+
+        {
+
+            Console.WriteLine("Ingrese valor:");
+
+            valor = Convert.ToInt32(Console.ReadLine());
+
+            if (valor != -1)
+
+            {
+
+                calcular(valor);
+
+            }
+
+        } while (valor != -1);
+
+    }
+
+    public void calcular(int v)
+
+    {
+
+        for (int f = v; f <= v * 10; f = f + v)
+
+        {
+
+            Console.WriteLine(f);
+
+        }
+
+    }
+
+    public static void Main(String[] ar)
+
+    {
+
+        TablaMultiplicar tabla;
+
+        tabla = new TablaMultiplicar();
+
+        tabla.cargarValor();
+
+    }
+
+}
