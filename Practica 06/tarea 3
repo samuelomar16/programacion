@@ -1,0 +1,94 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ejercisio
+{
+     public class Contacto
+{
+
+        private string nombre;
+        private string apellidos;
+        private string telefono;
+        private string direccion;
+        
+        public string Nombre { get; set; }
+        public string Apellidos { get; set; }
+
+        public string Telefono{ get; set; }
+
+        public string Direccion { get; set; }
+
+
+
+
+
+
+
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ejercisio
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Contacto contacto = new Contacto();
+     
+            string nombre;
+            string apellido;
+
+            string telefono;
+
+            string direccion;
+
+            Console.WriteLine("llena estos datos pliss");
+            Console.WriteLine("porque ella no te ama , puedes insertar tu nombre ");
+            nombre = Console.ReadLine();
+            Console.WriteLine("porque la vida es asi que no importa lo que hagas ella no te amara, puedes insertar tu apellido");
+            apellido = Console.ReadLine();
+            Console.WriteLine("no te suicides que a un asi a ella no le va importar, insertar telefono");
+            telefono = Console.ReadLine();
+            Console.WriteLine("que bien llegaste hasta aqui pero eso no quiere decir que ella sera tu novia, inserta tu direccion");
+            direccion = Console.ReadLine();
+
+            contacto.Nombre = nombre;
+            contacto.Apellidos = apellido;
+            contacto.Telefono = telefono;
+            contacto.Direccion = direccion;
+
+         
+            void Saludo(string nombre1, string apellido1, string telefono1, string direccion1)
+            {
+
+               Console.WriteLine("aceptalo men ella nunca te amara entiendelo:" + nombre1);
+                Console.WriteLine("no llores que yo se que lo puedes superar ya que como quiera ella esta con otro:" + apellido1);
+                Console.WriteLine("aceptalo :" + telefono1);
+                Console.WriteLine("ella no te ama:" + direccion1);
+                Console.WriteLine("No te rindas  no eres feo fue que Dios te puso a conquistar en modo dificil" );
+
+            }
+            Saludo(contacto.Nombre,contacto.Apellidos,contacto.Telefono,contacto.Direccion);
+
+            //Console.WriteLine("aceptalo men ella nunca te amara entiendelo:"+ contacto.Nombre);
+
+            Console.ReadKey();
+
+
+
+        }
+
+    
+    }
+}
+
